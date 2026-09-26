@@ -61,7 +61,7 @@ side of that, and the part in the middle where you are the one speaking.
 Zoom, Meet, and a Slack huddle all capture the desktop the same way, and
 Lozenge sits outside that capture by default.
 
-| | |
+| How it works | What you see |
 | :-- | :-- |
 | **The window opts out** | The prompter, the Confidence Monitor, the notch prompter, the phone remote, and the delivery report ask macOS to leave them out of a full desktop or full screen capture. |
 | **Everything else is still shared** | Your editor, your browser, your deck. The share looks exactly as it should. Lozenge is not in it. |
@@ -129,7 +129,7 @@ For the part where they are talking.
 
 Anyone who has to be good at a conversation on a schedule.
 
-| | |
+| Who | The conversation |
 | :-- | :-- |
 | **Sales and solutions engineers** | A live product demo where the click path and the sentence have to land together. |
 | **Recruiters and hiring managers** | A screening call where the questions came from the job description and the resume you attached this morning. |
