@@ -75,6 +75,10 @@ Lozenge sits outside that capture by default.
 
 ## What it does
 
+<p align="center">
+  <img src=".github/readme/prompter.png" alt="The Lozenge Prompter with the Product demo sample open. Five beats with timings on the left, and the first beat, Open with the problem, set large beside them." width="880">
+</p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
