@@ -127,6 +127,10 @@ For the part where they are talking.
 </tr>
 </table>
 
+<p align="center">
+  <img src=".github/readme/listen.png" alt="Lozenge Listen during a discovery call. The next prepared question sits at the top, the transcript below it has speaker labels and timestamps, and a live answer card responds to the question just asked." width="880">
+</p>
+
 <br>
 
 ## Who it is for
